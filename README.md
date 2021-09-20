@@ -1,3 +1,5 @@
+![pantalla](https://user-images.githubusercontent.com/68760595/134053872-5e67bb08-dfbf-409f-aa74-87559253c03c.png)
+
 # Steps
 1. Code -> Download .zip
 
@@ -22,3 +24,4 @@ npm install cors
 ```
 node index.js
 ```
+![codigo](https://user-images.githubusercontent.com/68760595/134054083-b6e7566f-a177-4a7a-af83-e76833776bf9.png)
