@@ -13,3 +13,12 @@ npm install axios
 
 ```
 
+4. install cors:
+```
+npm install cors
+
+```
+5. run:
+```
+node index.js
+```
