@@ -1,4 +1,4 @@
 # Steps
-1. Download code
+1. Code -> Download .zip
 
 
